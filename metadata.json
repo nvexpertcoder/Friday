@@ -1,0 +1,8 @@
+{
+  "name": "FRIDAY Web AR",
+  "description": "A web-based augmented reality assistant featuring vision analysis, creative drawing tools, and object placement powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
